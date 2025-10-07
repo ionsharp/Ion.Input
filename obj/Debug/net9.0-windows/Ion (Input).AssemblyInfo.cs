@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("No rights reserved.")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Common elements for input management.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+af29cdd8513adbd6ef70981974ca5c4fc89aede6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ion.Input")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ion.Input")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
