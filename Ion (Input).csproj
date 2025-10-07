@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <LangVersion>preview</LangVersion>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>Ion</Authors>
+    <Company>Ion</Company>
+    <Copyright>No rights reserved.</Copyright>
+    <Description>Common elements for input management.</Description>
+    <NeutralLanguage>en</NeutralLanguage>
+    <RepositoryUrl>https://github.com/ionsharp/</RepositoryUrl>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AssemblyName>Ion.Input</AssemblyName>
+    <AssemblyTitle>Ion.Input</AssemblyTitle>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <RootNamespace>Ion.Input</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Input\MouseKeyEventProvider.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
