@@ -1,11 +1,15 @@
+C:\Users\james\OneDrive\GitHub\Ion.Input\bin\Debug\net9.0-windows\Ion.Input.deps.json
+C:\Users\james\OneDrive\GitHub\Ion.Input\bin\Debug\net9.0-windows\Ion.Input.runtimeconfig.json
+C:\Users\james\OneDrive\GitHub\Ion.Input\bin\Debug\net9.0-windows\Ion.Input.dll
+C:\Users\james\OneDrive\GitHub\Ion.Input\bin\Debug\net9.0-windows\Ion.Input.pdb
+C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion (Input).csproj.AssemblyReference.cache
 C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion (Input).GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion (Input).AssemblyInfoInputs.cache
 C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion (Input).AssemblyInfo.cs
 C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion (Input).csproj.CoreCompileInputs.cache
-C:\Users\james\OneDrive\GitHub\Ion.Input\bin\Debug\net9.0-windows\Ion.Input.deps.json
-C:\Users\james\OneDrive\GitHub\Ion.Input\bin\Debug\net9.0-windows\Ion.Input.dll
-C:\Users\james\OneDrive\GitHub\Ion.Input\bin\Debug\net9.0-windows\Ion.Input.pdb
+C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion (Input).sourcelink.json
 C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion.Input.dll
 C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\refint\Ion.Input.dll
 C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion.Input.pdb
+C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\Ion (Input).genruntimeconfig.cache
 C:\Users\james\OneDrive\GitHub\Ion.Input\obj\Debug\net9.0-windows\ref\Ion.Input.dll
