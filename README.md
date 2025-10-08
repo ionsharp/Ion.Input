@@ -4,6 +4,15 @@ Ion.Input
 ---
 ...
 
+[Nuget](https://www.nuget.org/packages/Ion.Input/)
+![](https://img.shields.io/badge/style-Coming%20soon!-red.svg?style=flat&label=)
+---
+### Quick install
+> _`Install-Package Ion.Input -Version *.0.0`_
+
+[Learn more...](https://github.com/ionsharp/Ion.Input/wiki)
+
+
 Wiki ![](https://img.shields.io/badge/style-Coming%20soon!-red.svg?style=flat&label=)
 ---
 For help, visit the [wiki](https://github.com/ionsharp/Ion.Input/wiki).
